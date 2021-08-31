@@ -1,0 +1,36 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+body{
+    text-align: center;
+}
+.container{
+    height: 500px;
+    width: 500px;
+    border: 2px solid grey;
+    text-align: center;
+    box-shadow: 5px 5px 5px rgb(19, 102, 128);
+}
+.underline{
+    border: 2px solid green;
+     border-radius: 5px;
+
+}
+.image-person{
+    height:200px;
+    width:200px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+#job{
+    color: rgb(9, 255, 0);
+}
+i{
+    color: darkcyan;
+    border: none;
+}
